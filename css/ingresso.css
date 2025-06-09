@@ -22,13 +22,13 @@ main.container {
     border: 2px solid #00F4BF;
     margin: 0 auto;
     padding: 4.5rem 6.38rem;
-    background-image: url('../assets/PNG/Imagem\ com\ borda.png');
+    background-image: url('../img/ingresso/PNG/Imagem\ com\ borda.png');
     background-size: cover;
     position: relative;
 }
 
 main.container .grafismo {
-    background: url('../assets/SVG/Grafismo\ verde.svg');
+    background: url('../img/ingresso/SVG/Grafismo\ verde.svg');
     width: 31.9375rem;
     height: 2.0625rem;
     position: absolute;
@@ -78,7 +78,7 @@ form .input-group input {
 form .input-group select {
     width: 24.75rem;
     appearance: none;
-    background: url('../assets/PNG/Arrow\ down.png') no-repeat right 1rem top 50%;
+    background: url('../img/ingresso/PNG/Arrow\ down.png') no-repeat right 1rem top 50%;
     color: black;
     background-color: white;
 }
